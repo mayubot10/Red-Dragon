@@ -11,7 +11,15 @@ global.APIKeys = {
 	'https://zenzapis.xyz': 'your key',
 }
 
-global.alivemsg = `📤I am alive now😇
+global.alivemsg = `📤I,m online now
+
+ How Are You😼
+
+┃Owner 🎩: @M_ᴘɪʏᴜᵐᵃɴ~
+
+┃Version 🧚: 1.0.1
+
+┃Runtime ⏳: 24*7 hr😇
 🤷‍♀️How can I help you?😉` //Costomize Alive Message (type your message in `` )
 
 
@@ -51,7 +59,7 @@ global.owner = ['+94764020947']
 global.ownertag = '+94764020947' //your tag number
 global.botname = 'M_piyuᵐᵃn- 𝘉𝘖𝘛' //ur bot name
 global.packname = "M_piyuᵐᵃn Sticker" // sticker packname
-global.author = "𝙍𝙀𝘿╺ 𝘿𝙍𝘼𝙂𝙊𝙉" // sticker author
+global.author = "piyu" // sticker author
 global.dragonemoji = '🧩' // Menu emoji
 global.footer = '[ ◉M_piyuᵐᵃn-ᴍᴅ ]' //
 
